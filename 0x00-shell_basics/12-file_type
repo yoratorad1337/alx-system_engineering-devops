@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp/whoami
+echo "#!/bin/bash" > /tmp/iamafile  & echo "echo 'iamafile'" >>/tmp/iamafile
