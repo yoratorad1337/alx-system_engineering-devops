@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincent:stagg _hello
+chown -h vincent:stage _hello
