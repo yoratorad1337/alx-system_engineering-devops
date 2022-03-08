@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /tmp | echo "Hello, World" >>  0-hello_world
-
+cd /tmp | echo "Hello, World" >  0-hello_world
